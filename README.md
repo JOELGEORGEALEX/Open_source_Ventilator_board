@@ -25,6 +25,14 @@ Control board for ventilator
 
 [![Watch the video](https://i9.ytimg.com/vi/66fcLp2kyoI/mq3.jpg?sqp=CLiW440G&rs=AOn4CLDJLJpjEt6A7Zbwf79OyyhlPe04kw)](https://youtu.be/66fcLp2kyoI)
 
-[![Watch the video](https://i9.ytimg.com/vi/lb3OuT_guLE/mq1.jpg?sqp=COSY440G&rs=AOn4CLBivrEvsMnW0iCJ2opJonLXMwNX2g)](https://youtu.be/lb3OuT_guLE)
+### Ventilator data integrated to a Common DASHBOARD - One point for whole patients [VIDEO_link]
 
+[![Watch the video](https://i9.ytimg.com/vi/lb3OuT_guLE/mq1.jpg?sqp=COSY440G&rs=AOn4CLBivrEvsMnW0iCJ2opJonLXMwNX2g)](https://youtu.be/lb3OuT_guLE)
+### Open source _respiratory assist device
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/74887402.jpg "ventilator")
+#### Gaining news value
+* https://timesofindia.indiatimes.com/business/india-business/kochi-super-fab-lab-set-up-by-mit-creates-low-cost-ventilator/articleshow/74887382.cms
+* https://www.youtube.com/watch?v=IrywbhHuZn0
+* https://www.newindianexpress.com/cities/kochi/2020/apr/02/ventilator-developed-by-super-fab-lab-ready-for-trial-production--2124459.html
+* https://thelogicalindian.com/good-governance/countrys-first-super-fab-lab-19465
+
