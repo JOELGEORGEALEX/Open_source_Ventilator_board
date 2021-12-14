@@ -11,9 +11,15 @@ Control board for ventilator
 * Should have a buzzer to indicate emergency conditions
 ### EAGLE Designing
 * Board was designed as double side keeping in mind the objectives
-![alt text for screen readers](https://github.com/JOELGEORGEALEX/ESP32_CNC_Controller/blob/main/esp1.jpeg "ESP32__CNC_BOARD")
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/eagle2.png "ESP32__CNC_BOARD")
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/eagle1.png "ESP32__CNC_BOARD")
 ### PCB manufacturing_ Fiber_Laser_Trotec_Speedy400flexx
 * Double side board fabircated using fiber laser.
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/laser.jpg "ESP32__CNC_BOARD")
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/board2.jpg "ESP32__CNC_BOARD")
 ### Final board after soldering
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/board1.jpg "ESP32__CNC_BOARD")
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/board2.jpg "ESP32__CNC_BOARD")
 ### Testing of board after programming and pressure sensor connections
+
 #### LCD Display and ambubag reading outputs(pressure, volume)
