@@ -16,10 +16,14 @@ Control board for ventilator
 ### PCB manufacturing_ Fiber_Laser_Trotec_Speedy400flexx
 * Double side board fabircated using fiber laser.
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/laser.jpg "ESP32__CNC_BOARD")
-![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/board2.jpg "ESP32__CNC_BOARD")
 ### Final board after soldering
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/board1.jpg "ESP32__CNC_BOARD")
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/board2.jpg "ESP32__CNC_BOARD")
-### Testing of board after programming and pressure sensor connections
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-#### LCD Display and ambubag reading outputs(pressure, volume)
+### Testing of board after programming and pressure sensor connections 
+#### LCD Display and ambubag reading outputs(pressure, volume) [VIDEO_link]
+[![Watch the video](https://i9.ytimg.com/vi/CPgE90Rl1tY/mq2.jpg?sqp=CLiW440G&rs=AOn4CLCwpz8gn7SM5_n6ET4FGThzSar0cg)](https://youtu.be/CPgE90Rl1tY)
+
+[![Watch the video](https://i9.ytimg.com/vi/66fcLp2kyoI/mq3.jpg?sqp=CLiW440G&rs=AOn4CLDJLJpjEt6A7Zbwf79OyyhlPe04kw)](https://youtu.be/66fcLp2kyoI)
+
+[![Watch the video](https://i9.ytimg.com/vi/lb3OuT_guLE/mq1.jpg?sqp=COSY440G&rs=AOn4CLBivrEvsMnW0iCJ2opJonLXMwNX2g)](https://youtu.be/lb3OuT_guLE)
+
