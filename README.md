@@ -27,3 +27,4 @@ Control board for ventilator
 
 [![Watch the video](https://i9.ytimg.com/vi/lb3OuT_guLE/mq1.jpg?sqp=COSY440G&rs=AOn4CLBivrEvsMnW0iCJ2opJonLXMwNX2g)](https://youtu.be/lb3OuT_guLE)
 
+![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/74887402.jpg "ventilator")
