@@ -21,5 +21,5 @@ Control board for ventilator
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/board1.jpg "ESP32__CNC_BOARD")
 ![alt text for screen readers](https://github.com/JOELGEORGEALEX/Open_source_Ventilator_board/blob/main/board2.jpg "ESP32__CNC_BOARD")
 ### Testing of board after programming and pressure sensor connections
-
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 #### LCD Display and ambubag reading outputs(pressure, volume)
